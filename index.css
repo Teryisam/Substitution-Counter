@@ -9,7 +9,6 @@ body {
 .container {
     /*background: white;*/
     position: relative;
-    background-size: cover;
     height: 50vh;
     max-width: 80%;
     margin: auto;
