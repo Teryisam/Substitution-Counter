@@ -10,12 +10,16 @@ body {
     background: white;
     background-image: url("Desktop-free-nba-wallpaper-HD.jpg");
     background-size: cover;
-    opacity: 0.5;
+    /*opacity: 0.5;*/
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
 }
+
+img {
+    opacity: 0.5;
+  }
 
 h1 {
     margin-top: 10px;
