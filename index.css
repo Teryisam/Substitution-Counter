@@ -7,6 +7,7 @@ body {
 }
 
 .container {
+    border: 3px solid goldenrod;
     background: white;
     background-image: url("Desktop-free-nba-wallpaper-HD.jpg");
     background-size: cover;
