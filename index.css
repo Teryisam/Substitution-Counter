@@ -9,6 +9,7 @@ body {
 .container {
     background: white;
     background-image: url("Desktop-free-nba-wallpaper-HD.jpg");
+    background-size: cover;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
