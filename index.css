@@ -7,11 +7,10 @@ body {
 }
 
 .container {
-    border: 3px solid goldenrod;
     background: white;
     background-image: url("Desktop-free-nba-wallpaper-HD.jpg");
     background-size: cover;
-    /*opacity: 0.5;*/
+    opacity: 0.5;
     max-width: 80%;
     margin: auto;
     border: 3px solid goldenrod;
@@ -31,6 +30,11 @@ h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
+    color: goldenrod;
+}
+
+p {
+    color: goldenrod;
 }
 
 button {
