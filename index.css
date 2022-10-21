@@ -3,14 +3,14 @@ body {
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    height: 50vh;
+    height: 100vh;
 }
 
 .container {
     background: white;
     background-image: url("Desktop-free-nba-wallpaper-HD.jpg");
     background-size: cover;
-    height: 100vh;
+    height: 50vh;
     max-width: 80%;
     margin: auto;
     border: 3px solid goldenrod;
