@@ -8,7 +8,6 @@ body {
 
 .container {
     /*background: white;*/
-    position: relative;
     height: 50vh;
     max-width: 80%;
     margin: auto;
@@ -38,6 +37,7 @@ h1 {
 }
 
 h2 {
+    position: relative;
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
@@ -45,6 +45,7 @@ h2 {
 }
 
 p {
+    position: relative;
     color: goldenrod;
 }
 
@@ -57,6 +58,8 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
+    position: relative;
+
 }
 
 #increment-btn {
