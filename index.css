@@ -1,6 +1,7 @@
 body {
     background-image: url("Golden State 1.jpg");
     background-size: cover;
+    opacity: 0.8;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
@@ -10,7 +11,6 @@ body {
     background: white;
     background-image: url("Desktop-free-nba-wallpaper-HD.jpg");
     background-size: cover;
-    opacity: 0.5;
     max-width: 80%;
     margin: auto;
     border: 3px solid goldenrod;
